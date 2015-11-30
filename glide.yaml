@@ -1,0 +1,4 @@
+package: main
+import:
+  - package: github.com/fsouza/go-dockerclient
+    ref:     0239034d42f665efa17fd77c39f891c2f9f32922
